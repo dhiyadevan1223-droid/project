@@ -23,6 +23,8 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
+
+```
 html
 
 <!DOCTYPE html>
@@ -213,7 +215,7 @@ body {
     font-size: 11px;
     color: #777;
 }
-
+```
 # OUTPUT:
 <img width="1892" height="1017" alt="image" src="https://github.com/user-attachments/assets/dcb95adb-76ff-430f-8d68-0d822d5de894" />
 
